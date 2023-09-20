@@ -1,0 +1,58 @@
+
+.hello {
+    color: blueviolet;
+    font-family: cursive;
+    font-size: larger;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    background:linear-gradient(to right, rgb(249, 168, 212), rgb(216, 180, 254), rgb(129, 140, 248));
+}
+
+.topics h1{
+    color: blueviolet;
+    align-items: center;
+    justify-content: center;
+    font-size: x-large;
+    font-family: cursive;
+  }
+
+  .topics p{
+    padding: 10px;
+    margin: 10px;
+    font-size: medium;
+    text-align: center;
+  }
+
+  .topics-remedy h1{
+    margin-top: 50px;
+    font-family: cursive;
+    font-size:25px;
+    font-weight: 500;
+    color: blueviolet;
+    text-align: center;
+  }
+
+  .topics-remedy p{
+    padding: 10px;
+    margin: 10px;
+    font-size: medium;
+    text-align: center;
+  }
+.topics{
+    height: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.topics h3{
+    margin-top: 50px;
+    font-family: cursive;
+    font-size:25px;
+    font-weight: 500;
+    color: blueviolet;
+}

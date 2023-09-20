@@ -1,0 +1,13 @@
+.lists{
+    height: 100%;
+}
+
+.lists p{
+    background-color: #facaf5;
+    margin:10px;
+    padding: 10px;
+    border-radius: 25px;
+    text-align: center;
+    color: blueviolet;
+    font-size: large;
+}
